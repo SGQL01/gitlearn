@@ -18,4 +18,4 @@
 
 # Git
 
-- git tracts changes.
+- git tracts changes of files.
