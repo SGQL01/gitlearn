@@ -13,3 +13,4 @@
 # Linux
 
 - Linux homework-thu-bioinfo-luzhi
+- linux notes
