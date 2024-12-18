@@ -9,3 +9,7 @@
 - R learning-fr.jzy-XMU
 - readme: how to open jupyter in annaconda
 - homework-pku-neural tract-2024
+
+# Linux
+
+- Linux homework-thu-bioinfo-luzhi
