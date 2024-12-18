@@ -15,3 +15,7 @@
 - Linux homework-thu-bioinfo-luzhi
 - linux notes
 - anything
+
+# Git
+
+- git tracts changes.
